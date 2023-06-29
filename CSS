@@ -4,6 +4,7 @@
         body {
             background-image: url("https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg?size=626&ext=jpg&ga=GA1.2.2086548631.1678489042&semt=ais");
             background-color: linen;
+            background-repeat: no-repeat;
         }
 
         h1 {
