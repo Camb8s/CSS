@@ -19,9 +19,12 @@
             color: rgb(132, 184, 141);
             font-family: verdana;
             font-size: 20px;
-            border-style: solid;
+            border-top-style: solid;
             border-width: medium 5px;
             border-color: rgb(74, 99, 71)
+        }
+        p.round1 {
+            border: 2px rgb(74, 99, 71);
         }
 </head>
 <body>
