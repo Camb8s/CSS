@@ -22,7 +22,7 @@
         }
         p.one {
             border-style: solid;
-            border-width: medium;
+            border-width: medium 20px;
         }
     </style>
 </head>
