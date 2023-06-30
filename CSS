@@ -19,10 +19,8 @@
             color: rgb(132, 184, 141);
             font-family: verdana;
             font-size: 20px;
-        }
-        p.round1 {
-            border: 2px rgb(74, 99, 71);
-            border-radius: 5px;
+            border: 2px solid rgb(74, 99, 71);
+            border-radius: 8px;
             padding: 5px;
         }
     </style>
@@ -31,7 +29,7 @@
 
 
 <h1>My page for CSS</h1>
-<p class="p.round1">I will be learning how to use CSS with HTML here</p>
+<p class="p.round">I will be learning how to use CSS with HTML here</p>
 
 
 </body>
