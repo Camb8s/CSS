@@ -26,6 +26,7 @@
         p.round1 {
             border: 2px rgb(74, 99, 71);
             border-radius: 5px;
+            padding: 5px;
         }
 </head>
 <body>
