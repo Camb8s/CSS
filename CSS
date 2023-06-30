@@ -22,6 +22,7 @@
             border: 2px solid rgb(74, 99, 71);
             border-radius: 8px;
             padding: 5px;
+            margin-right: 150px;
         }
     </style>
 </head>
@@ -29,7 +30,7 @@
 
 
 <h1>My page for CSS</h1>
-<p class="p.round">I will be learning how to use CSS with HTML here</p>
+<p class="p">I will be learning how to use CSS with HTML here</p>
 
 
 </body>
