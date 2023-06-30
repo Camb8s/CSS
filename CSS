@@ -23,6 +23,7 @@
         p.one {
             border-style: solid;
             border-width: medium 20px;
+            border-color: rgb(74, 99, 71)
         }
     </style>
 </head>
