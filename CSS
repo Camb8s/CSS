@@ -28,12 +28,13 @@
             border-radius: 5px;
             padding: 5px;
         }
+    </style>
 </head>
 <body>
 
 
 <h1>My page for CSS</h1>
-<p>I will be learning how to use CSS with HTML here</p>
+<p class="p.round1">I will be learning how to use CSS with HTML here</p>
 
 
 </body>
