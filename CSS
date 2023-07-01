@@ -25,7 +25,7 @@
             margin-right: 150px;
         }
         div {
-            border: 15px rgb(74, 99, 71);
+            border: 15px solid rgb(74, 99, 71);
             background-color: rgb(132, 184, 141);
             padding: 50px 30px 50px 80px;
             margin-right: 150px;
@@ -38,7 +38,7 @@
 <h1>My page for CSS</h1>
 <p class="p">I will be learning how to use CSS with HTML here</p>
 
-<div>This page is gonna be used to practice CSS and to be a sort of CV too</div>
+<div>This page is gonna be used to practice CSS and to be a sort of CV too,</div>
 
 
 </body>
