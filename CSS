@@ -14,10 +14,10 @@
             background-attachment: fixed;
         }
         h1 {
+            font-family: "Trirong";
             color: rgb(132, 184, 141);
             text-align: center;
             text-shadow: 5px 5px 4px rgb(28, 108, 117)
-            font-family: "Trirong";
         }
         h2 {
             color: rgb(132, 184, 141);
