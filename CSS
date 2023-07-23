@@ -46,6 +46,7 @@
         a: link, a: visited {
             background-color: rgb(132, 184, 141);
             color: black;
+            padding: 14px 25px;
         }
     </style>
 </head>
