@@ -43,7 +43,7 @@
             margin-right: 150px;
             letter-spacing: 3px;
         }
-        a: link, a: visited {
+        a:link, a:visited {
             background-color: rgb(132, 184, 141);
             color: black;
             padding: 14px 25px;
@@ -69,7 +69,7 @@
 
 <div>Here is a link back to my github using an icon from fontawesome.com <a href="https://github.com/Camb8s"><i class="fa-brands fa-github" style="color: white;"></i></a></div>
 
-
+<a href="https://codepen.io/Camb8s" target="_blank">CODEPEN</a>
 
 </body>
 </html>
