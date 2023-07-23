@@ -43,6 +43,9 @@
             margin-right: 150px;
             letter-spacing: 3px;
         }
+        a: link, a: visited {
+            
+        }
     </style>
 </head>
 <body>
@@ -57,6 +60,7 @@
 <h2>Place-holder While I figure out what I want to do with it</h2>
 
 <div>Here is a link back to my github using an icon from fontawesome.com <a href="https://github.com/Camb8s"><i class="fa-brands fa-github" style="color: white;"></i></a></div>
+
 
 
 </body>
