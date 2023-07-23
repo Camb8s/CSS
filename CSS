@@ -51,6 +51,9 @@
             text-decoration: none;
             display: inline-block;
         }
+        a:hover, a:active {
+            
+        }
     </style>
 </head>
 <body>
