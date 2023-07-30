@@ -25,7 +25,7 @@
             text-decoration: underline;
         }
         p {
-            color: rgb(37, 0, 0);
+            color: rgb(37, 28, 59);
             font-family: garamond;
             font-size: 15px;
             border: 2px solid rgb(112, 158, 189);
@@ -51,7 +51,7 @@
             display: inline-block;
         }
         a:hover, a:active {
-            background-color: rgb(74, 99, 71);
+            background-color: rgb(112, 158, 189);
         }
         a {
             margin-right: 20px;
