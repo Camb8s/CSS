@@ -15,8 +15,8 @@
             background-attachment: fixed;
         }
         h1 {
-            font-family: "Garamond";
-            color: rgb(37, 0, 0);
+            font-family: "brush script mt";
+            color: rgb(37, 28, 59);
             text-align: center;
         }
         h2 {
@@ -25,10 +25,10 @@
             text-decoration: underline;
         }
         p {
-            color: rgb(141, 195, 208);
+            color: rgb(37, 0, 0);
             font-family: garamond;
             font-size: 15px;
-            border: 2px solid rgb(112, 158, 189;
+            border: 2px solid rgb(112, 158, 189);
             border-radius: 8px;
             padding: 5px;
             margin-right: 150px;
@@ -36,7 +36,7 @@
             font-weight: bold;
         }
         div {
-            border: 15px solid rgb(112, 158, 189;
+            border: 15px solid rgb(112, 158, 189);
             background-color: rgb(141, 195, 208);
             padding: 50px 30px 50px 80px;
             margin-right: 150px;
@@ -52,10 +52,10 @@
         }
         a:hover, a:active {
             background-color: rgb(74, 99, 71);
-            margin-left:5px
         }
         a {
             margin-right: 20px;
+            position: center;
         }
     </style>
 </head>
@@ -63,7 +63,7 @@
 
 
 <h1>Elizabeth raffald</h1>
-<p class="p">I will be learning how to use CSS with HTML here</p>
+<p class="p">This is page will be used to give you the basic details of Elizabeth Raffald.</p>
 
 <div>The Experienced English Housekeeper of 18th Century Manchester, a woman of drive and character. Elizabeth lived at the dawn of the Industrial Age. Her name is unfamiliar to most Mancunians and yet she was a powerhouse of hard work and entrepreneurialism, something for which Manchester has always been renowned. She was a skilled confectionery cook, writer and businesswoman who lived in Manchester from 1763 , when she married at the age of 30, until she died in 1781. In that short time she produced a definitive cookbook and the first trade directory for Manchester, financed newspapers, wrote a book on midwifery and yet still found time to have a family. After a varied career she was buried at Stockport and her husband fled to London. Hers is a fascinating story taking in many things and places, including Arley Hall in Cheshire, Kersal Moor racecourse and the Eccles cake. She is a woman who deserves to be remembered for her contribution to Manchester.</div>
 
@@ -72,7 +72,8 @@
 
 <div>Here is a link back to my github using an icon from fontawesome.com <a href="https://github.com/Camb8s"><i class="fa-brands fa-github" style="color: white;"></i></a></div><br><br>
 
-<a href="https://en.wikipedia.org/wiki/Elizabeth_Raffald" target="_blank">WIKI</a> <a href="https://www.amazon.co.uk/Elizabeth-Raffald-Experienced-Housekeeper-Manchester/dp/1508449449/ref=sr_1_2?crid=L7TDO3PQ2BSR&keywords=elizabeth+raffald&qid=1690754608&sprefix=elizabeth+raffald+%2Caps%2C71&sr=8-2" target="_blank">BOOK</a>
+<a href="https://en.wikipedia.org/wiki/Elizabeth_Raffald" target="_blank">WIKI</a> 
+<a href="https://www.amazon.co.uk/Elizabeth-Raffald-Experienced-Housekeeper-Manchester/dp/1508449449/ref=sr_1_2?crid=L7TDO3PQ2BSR&keywords=elizabeth+raffald&qid=1690754608&sprefix=elizabeth+raffald+%2Caps%2C71&sr=8-2" target="_blank">BOOK</a>
 
 </body>
 </html>
