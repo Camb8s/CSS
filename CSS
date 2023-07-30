@@ -53,6 +53,10 @@
         }
         a:hover, a:active {
             background-color: rgb(74, 99, 71);
+            margin-left:5px
+        }
+        a {
+            margin-right: 20px;
         }
     </style>
 </head>
