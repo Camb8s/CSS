@@ -42,6 +42,7 @@
             background-color: rgb(141, 195, 208);
             padding: 50px 30px 50px 80px;
             margin-right: 150px;
+            margin-left: 100px;
             letter-spacing: 3px;
         }
         a:link, a:visited {
